@@ -30,6 +30,7 @@ public class AppTest
     /**
      * Test the return with empty parameter
      */
+    
     public void testHelloEmptyParameter()
     {
         assertEquals("Hello World!", App.hello());
